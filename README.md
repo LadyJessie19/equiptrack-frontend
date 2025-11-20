@@ -94,6 +94,6 @@ A aplicação estará disponível em:
 
 ---
 
-## 🪪 Licença
+## 🚪 Licença
 
 Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
