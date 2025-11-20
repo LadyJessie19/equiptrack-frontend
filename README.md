@@ -4,7 +4,7 @@
 
 ### Uma SPA (*Single Page Application*) leve, desenvolvida com **Vue.js** e **Vite**, que consome o microserviço **Quarkus** para criar, visualizar e gerenciar equipamentos.
 
-<img src="https://i.imgur.com/8QzXy2A.png" alt="Vue and Quarkus Logos" width="500" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdtMHNkczF5cTdsaW40bjA1ajhuZ3U3bmxxZTAyODA4bXpheWozZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/adXwYTDvQNOMCggg8i/giphy.gif" alt="Vue and Quarkus Logos" width="500" />
 
 ---
 
@@ -15,7 +15,7 @@
 | **Nome do Projeto** | EquipTrack-Lite Frontend 🎨✨ |
 | **Data de Início** | 11/10/2025 ⏩ |
 | **Data de Término** | 12/10/2025 🏁 |
-| **Status** | 🔨 Em Desenvolvimento (Foco no CRUD) |
+| **Status** | ✔ Finalizado |
 
 ---
 
@@ -27,7 +27,7 @@
 - 📡 **Axios**
 - 💅 **CSS Básico**
 
-🔗 **Backend Quarkus:** [EquipTrack-Lite Backend](https://github.com/jessiemoura/equiptrack-lite-backend)
+🔗 **Backend Quarkus:** [EquipTrack-Lite Backend](https://github.com/LadyJessie19/equiptrack-backend)
 
 ---
 
@@ -52,13 +52,13 @@ O foco principal é demonstrar o uso eficiente do **Composition API** do Vue par
 
 ## 🔄 Instalação e Execução
 
-> ⚠️ **Pré-requisito:** Certifique-se de que o [EquipTrack-Lite Backend (Quarkus)](https://github.com/jessiemoura/equiptrack-lite-backend) está rodando na porta `8080`.
+> ⚠️ **Pré-requisito:** Certifique-se de que o [EquipTrack-Lite Backend (Quarkus)](https://github.com/LadyJessie19/equiptrack-backend) está rodando na porta `8080`.
 
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone <link-do-seu-repo-frontend>
-cd equiptrack-lite-frontend
+git clone https://github.com/LadyJessie19/equiptrack-frontend.git
+cd equiptrack-frontend
 ````
 
 ### 2️⃣ Instale as dependências
@@ -84,11 +84,13 @@ A aplicação estará disponível em:
 
 ## 👩‍💻 Desenvolvido por Jessie Moura
 
-<img src="assets/jessie-dev.jpg" alt="Jessie" width="200" />
+<img src="public/jessica.png" alt="Jessie" width="200" />
 
 💡 **Jessie M. Bentes** — *Fullstack Developer (foco em Backend Java com Spring Boot e Quarkus)*
+
 🎨 Entusiasta de interfaces limpas, integrações elegantes e desenvolvimento ágil.
-📬 Contato: [LinkedIn](https://www.linkedin.com/in/jessiemoura) | [GitHub](https://github.com/jessiemoura)
+
+📬 Contato: [LinkedIn](https://www.linkedin.com/in/jessiemoura) | [GitHub](https://github.com/LadyJessie19)
 
 ---
 
