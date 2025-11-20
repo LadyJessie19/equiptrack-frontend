@@ -1,5 +1,5 @@
 # 🎨✨ EquipTrack-Lite Frontend
-#### 👉 _[Ler em Português](./README.md)_
+#### 🇧🇷 _[Ler em Português](./README.md)_ 👈
 
 ## Equipment Risk Management Interface
 
