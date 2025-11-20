@@ -1,5 +1,5 @@
 # 🎨✨ EquipTrack-Lite Frontend
-#### 👉 _[Read in English](./english.md)_
+#### 🇺🇸 _[Read in English](./english.md)_ 👈
 ## Interface de Gerenciamento de Riscos de Equipamentos
 
 ### Uma SPA (*Single Page Application*) leve, desenvolvida com **Vue.js** e **Vite**, que consome o microserviço **Quarkus** para criar, visualizar e gerenciar equipamentos.
